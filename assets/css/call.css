@@ -4,6 +4,6 @@
   background: url(../images/backgrounds/paper.jpg) no-repeat center center/cover;
 }
 
-.container{
+#about .container{
   padding: 25px;
 }

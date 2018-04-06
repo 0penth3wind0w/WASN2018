@@ -116,6 +116,12 @@ ul li {
           transition: all 0.2s linear 0s;
 }
 
+.navbar-right{
+  padding-top:15px;
+  vertical-align: bottom;
+  bottom:0px;
+}
+
 .site-branding {
   float: left;
   margin-top: 0;

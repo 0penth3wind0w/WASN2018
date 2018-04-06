@@ -1,0 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:300,400,700);
+
+ .site-header {
+  background: url(../images/backgrounds/news.jpg) no-repeat center center/cover;
+}
+
+#about .container{
+  padding: 25px;
+}
