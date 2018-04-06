@@ -18,7 +18,7 @@ function handleTopNavAnimation() {
 	}
 	else{
 		$('#site-nav').removeClass('navbar-solid'); 
-		$('#site-nav').addClass('navbar-solid'); 
+		//$('#site-nav').addClass('navbar-solid'); 
 	}
 }
 
