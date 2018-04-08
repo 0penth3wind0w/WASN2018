@@ -4,6 +4,46 @@
   background: url(../images/backgrounds/wire.jpg) no-repeat center center/cover;
 }
 
+.section{
+  padding: 5vh;
+}
+
 #about .container{
   padding: 25px;
+}
+
+.partner .partner-box {
+  display: block;
+  height: 150px;
+  width: 150px;
+  margin: 25px auto;
+}
+
+.partner-box img{
+  height: 150px;
+  width: 150px;
+}
+
+.contribution{
+  background: #000;
+  color: #fff;
+  text-align: center;
+}
+
+.schedule{
+  background: #000;
+  color: #fff;
+  text-align: center;
+}
+
+.speakers h1{
+  text-align: center;
+}
+
+.faq{
+  background: #000;
+}
+.faq h1{
+  text-align: center;
+  color: #fff;
 }
