@@ -139,6 +139,10 @@ ul li {
   text-decoration: none;
 }
 
+.site-branding .logo img{
+  height: 80px;
+} 
+
 /* 
  * 5.0 Site Header
  */
