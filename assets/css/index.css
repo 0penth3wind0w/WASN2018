@@ -1,7 +1,7 @@
 @import url(http://fonts.googleapis.com/css?family=Roboto:300,400,700);
 
  .site-header {
-  background: url(../images/backgrounds/wire.jpg) no-repeat center center/cover;
+  background: url(../images/backgrounds/tower.jpg) no-repeat center center/cover;
 }
 
 
@@ -11,6 +11,10 @@
     font-size: 3em;
     font-weight: 100;
   }  
+  .site-header .intro .subtitle {
+    font-size: 2em;
+    font-weight: 100;
+  }
 }
 
 .section{
@@ -31,6 +35,10 @@
 .partner-box img{
   height: 150px;
   width: 150px;
+}
+
+.top-partner{
+  margin: 40px;
 }
 
 .contribution{
@@ -63,5 +71,13 @@
 
 .agenda td{
   color: #000;
+  text-align: center;
+}
+
+.ion{
+  font-size: 4em;
+}
+
+.important-time{
   text-align: center;
 }
