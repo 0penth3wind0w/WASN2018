@@ -41,6 +41,10 @@
   margin: 40px;
 }
 
+.top-partner div a img{
+  width: 300px;
+}
+
 .contribution{
   background: #000;
   color: #fff;
