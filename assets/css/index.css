@@ -39,9 +39,14 @@
 
 .top-partner{
   margin: 40px;
+
 }
 
 .top-partner div a img{
+  width: 750px;
+}
+
+.host img{
   width: 300px;
 }
 
