@@ -4,6 +4,9 @@
   background: url(../images/backgrounds/tower.jpg) no-repeat center center/cover;
 }
 
+body{
+  font-family: "Microsoft YaHei" , "微軟正黑體" , "文泉驛微米黑" , "黑體-繁";
+}
 
 @media (max-width: 768px) {
   .site-header .intro h1 {
