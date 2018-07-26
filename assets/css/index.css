@@ -53,36 +53,36 @@ body{
   width: 300px;
 }
 
-.contribution{
+.contribution, .schedule, .faq{
   background: #1F305E;
   color: #fff;
   text-align: center;
 }
 
-.schedule{
+.location{
   background: #1F305E;
   color: #fff;
-  text-align: center;
 }
 
-.speakers h1{
-  text-align: center;
-}
-
-.faq{
-  background: #1F305E;
-}
-.faq h1{
+.speakers h1, .faq h1{
   text-align: center;
   color: #fff;
 }
 
 .agenda{
-  background-color: #fff;
+  margin: 1%;
+  background: #fff;
+  color: #000;
+  width: 100%;
 }
 
-.agenda td{
-  color: #000;
+table{
+  width: 100%;
+  line-height: 2;
+}
+
+th, td{
+  border: 1px solid black;
   text-align: center;
 }
 
