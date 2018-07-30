@@ -14,6 +14,7 @@ Web pages for The 14th Workshop on Wireless, Ad-Hoc and Sensor Networks in Taiwa
 *"papers" by [fsse8info](https://www.flickr.com/photos/fsse-info/)*  
 *"Project 365 #25: 250109 It's Good to Talk!" by [Pete](https://www.flickr.com/photos/comedynose/)*  
 *"shift registers" by [Tomi Knuutila](https://www.flickr.com/photos/yourbartender/)*  
+*"Spigoli" by [Maritè Toledo](https://www.flickr.com/photos/marittoledo/)*  
 *"Wireful" by [MrClementi](https://www.flickr.com/photos/mrclementi/)*  
   
 Call for Paper poster by Chia-Yi Pan

@@ -1,0 +1,46 @@
+@import url(http://fonts.googleapis.com/css?family=Roboto:300,400,700);
+
+ .site-header {
+  background: url(../images/backgrounds/agenda.jpg) no-repeat center center/cover;
+}
+
+/* 
+ * 6.2 Section: Facts
+ */
+.section {
+  padding: 70px 0;
+}
+
+.section-title {
+  color: #313131;
+  letter-spacing: 1px;
+  margin: 0 0 20px;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.agenda{
+  margin: 1%;
+  background: #fff;
+  
+  width: 100%;
+}
+
+table{
+  width: 100%;
+  line-height: 2;
+}
+
+th, td{
+  border: 1px solid black;
+  text-align: center;
+  font-size: 1.4em;
+}
+
+.row{
+  padding-top: 5vh;
+}
+
+.row h3{
+  font-size: 32px;
+}
