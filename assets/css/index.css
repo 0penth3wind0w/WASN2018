@@ -97,3 +97,57 @@ th, td{
 .btn-white{
   background-color: #fff;
 }
+
+.grid {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+.grid::after {
+  content: '';
+  display: block;
+  clear: both;
+}
+
+.grid-item {
+  float: left;
+  overflow: hidden;
+  padding: 3px;
+  margin: 0;
+  width: 100%;
+}
+
+@media (min-width: 768px) {
+  .grid-item-sm-6 {
+    width: 50%;
+  }
+
+  .grid-item-sm-3 {
+    width: 25%;
+  }
+
+  .section-title {
+    margin: 0 0 30px;
+  }
+
+  figure {
+    margin-bottom: 0;
+  }
+}
+@media (min-width: 992px) {
+  .schedule-box {
+    margin: 0;
+  }
+
+  .grid-item-md-6 {
+    width: 50%;
+  }
+
+  .grid-item-md-3 {
+    width: 25%;
+  }
+}
+
+#flink{
+  color: white;
+}
